@@ -43,7 +43,7 @@ A dynamic and intuitive stock price tracker application that provides real-time 
 
   - Node.js
   - Express
-  - MongoDB (or any other database you use)
+  - PostgreSql (or any other database you use)
   - JWT (for authentication)
   - WebSockets (for real-time data)
   - Nodemailer (for email notifications)
